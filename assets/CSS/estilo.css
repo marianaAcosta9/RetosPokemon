@@ -13,9 +13,9 @@
 }
 
 .subtitulo {
-    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: cadetblue;
+    margin-left: 30px;
 }
 
 .texto {
@@ -25,7 +25,7 @@
     margin: 30px;
 }
 
-a {
+.spotify {
     text-decoration: none;
     padding: 8px;
     margin: 10px;
@@ -33,5 +33,20 @@ a {
     border-radius: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: antiquewhite;
+    font-size: 10px;
+}
+
+.pokemonimg {
+    margin-left: 50px;
+}
+
+.BotonPokemon {
+    text-decoration: none;
+    padding: 8px;
+    margin-left: 50px;
+    background-color: #e2abd9;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(249, 234, 215);
     font-size: 10px;
 }
